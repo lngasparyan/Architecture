@@ -1,1 +1,1 @@
-<img src="i/bino.png"/>
+<img src="images/cover.png"/>
